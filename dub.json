@@ -1,0 +1,9 @@
+{
+	"name": "mathparser",
+	"description": "A simple Math-Parser written in D.",
+	"copyright": "what's this?",
+	"authors": ["lush"],
+	"mainSourceFile": "source/MathParser/main.d",
+	"dependencies": {
+	}
+}
